@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides a class summary and information on meeting
+  times, format, assignments, grading, and the schedule of course topics and events.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -24,7 +26,7 @@ This pass/fail seminar should be a fun setting where we can all enjoy a love of 
 Assignments and Grading
 -----------------------
 
-The only requirement for this course is that you read the novels in time for each discussion. This should be a fun and relaxed class, and the [readings]({{< baseurl >}}/pages/readings) are meant to be thought-provoking and pleasurable. It is absolutely necessary, however, that students come to class able to discuss that week's novel and demonstrate that they have done the reading. We reserve the right to require additional writing in exchange for a passing grade if a student misses more than two classes or regularly comes to class unprepared.
+The only requirement for this course is that you read the novels in time for each discussion. This should be a fun and relaxed class, and the {{% resource_link ffc98145-0fe0-8052-1ab5-2fc4a3f19379 "readings" %}} are meant to be thought-provoking and pleasurable. It is absolutely necessary, however, that students come to class able to discuss that week's novel and demonstrate that they have done the reading. We reserve the right to require additional writing in exchange for a passing grade if a student misses more than two classes or regularly comes to class unprepared.
 
 We adore these books (would probably drag them with us to a desert island), and we hope you enjoy them too!
 
