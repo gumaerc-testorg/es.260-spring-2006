@@ -12,7 +12,7 @@ uid: d86b91cd-26a0-1f93-19c2-bf5720844281
 
 [Margaret Atwood](https://www.bbc.co.uk/programmes/b0b4zf0w)
 
-Sylvia Plath: [Lady Lazarus](http://www.bbc.co.uk/arts/poetry/outloud/plath.shtml), [Sylvia Plath Forum](http://www.sylviaplathforum.com/sp-audio.html)
+Sylvia Plath: [Lady Lazarus](http://www.bbc.co.uk/arts/poetry/outloud/plath.shtml), [Sylvia Plath Forum](http://www.sylviaplathforum.org/)
 
 [Alice Walker](https://www.bbc.co.uk/programmes/p03js344)
 
