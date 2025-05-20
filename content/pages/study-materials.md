@@ -86,7 +86,7 @@ Also take a look at the [Victorian Web directory](http://www.victorianweb.org/au
 
 *Edith Wharton*
 
-Here's a very brief [biography](http://www.npg.si.edu/exh/wharton/whar3.htm) of Edith Wharton online. There are lots out there of varying accuracy, but we've actually checked this one out and didn't see any egregious factual errors. It's by Eleanor Dwight, who wrote a recent biography of Wharton ("An Extraordinary Life"). Additional note: Wharton was the first woman to receive either the Pulitzer Prize or the honorary doctorate from Yale.
+Here's a very brief [biography](https://www.edithwharton.org/discover/edith-wharton/) of Edith Wharton online. There are lots out there of varying accuracy, but we've actually checked this one out and didn't see any egregious factual errors. It's by Eleanor Dwight, who wrote a recent biography of Wharton ("An Extraordinary Life"). Additional note: Wharton was the first woman to receive either the Pulitzer Prize or the honorary doctorate from Yale.
 
 In honor of the tableaux vivants scene of *The House of Mirth*, the class visited the [Isabella Stewart Gardner Museum](http://www.gardnermuseum.org/). You can explore their collections online [here](http://www.gardnermuseum.org/collection).
 
