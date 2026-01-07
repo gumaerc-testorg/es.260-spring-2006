@@ -31,7 +31,7 @@ Reynolds, Sheri. _The Rapture of Canaan_. New York, NY: Berkley Books, 1997. ISB
 Additional Readings
 -------------------
 
-Atwood, Margaret. "{{% resource_link "d6e3ba10-5b58-4c11-baca-6901727bf767" "Marrying the Hangman" %}}." 1978.
+Atwood, Margaret. "[Marrying the Hangman](http://www.poetryfoundation.org/archive/poem.html?id=177287)." 1978.
 
 Plath, Sylvia. "The Applicant." 1962.
 
