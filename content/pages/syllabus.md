@@ -16,7 +16,7 @@ Lectures: 1 session / week, 2 hours / session
 Format
 ------
 
-This course, as part of the {{% resource_link "fafd4f37-4742-4847-85c3-2c7a9daf6ef5" "Experimental Study Group" %}} Seminar Series, offers students the opportunity to participate in a small discussion-based class taught by an MIT upperclassman under the guidance of a faculty supervisor. Students Faye Kasemset (B.S. 05 Electrical Engineering and Computer Science, Literature) and Jocelyn Rodal (B.S. 06 Literature) taught this seminar in cooperation with Dr. Holly Sweet, Lecturer and Associate Director in the Experimental Study Group. Seminars taught in this format are all graded Pass/Fail and receive 1/2 of the academic credit assigned to regular academic classes.
+This course, as part of the [Experimental Study Group](http://esg.mit.edu/) Seminar Series, offers students the opportunity to participate in a small discussion-based class taught by an MIT upperclassman under the guidance of a faculty supervisor. Students Faye Kasemset (B.S. 05 Electrical Engineering and Computer Science, Literature) and Jocelyn Rodal (B.S. 06 Literature) taught this seminar in cooperation with Dr. Holly Sweet, Lecturer and Associate Director in the Experimental Study Group. Seminars taught in this format are all graded Pass/Fail and receive 1/2 of the academic credit assigned to regular academic classes.
 
 Class Summary
 -------------
@@ -129,7 +129,7 @@ Virginia Woolf: _Mrs. Dalloway_
 Virginia Woolf: _Mrs. Dalloway_ (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Film: Daldry, Stephen. {{% resource_link "58a60332-e41e-4d44-8f72-eeffd9a21535" "_The Hours_" %}}. 2002.
+Film: Daldry, Stephen. [_The Hours_](http://www.imdb.com/title/tt0274558/). 2002.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +141,7 @@ Film: Daldry, Stephen. {{% resource_link "58a60332-e41e-4d44-8f72-eeffd9a21535" 
 Edith Wharton: _The House of Mirth_
 {{< tdclose >}}
 {{< tdopen >}}
-Trip: {{% resource_link "e466ef35-65f2-452b-977b-aad14295d57b" "The Isabella Stewart Gardner Museum" %}}
+Trip: [The Isabella Stewart Gardner Museum](http://www.gardnermuseum.org/)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +153,7 @@ Trip: {{% resource_link "e466ef35-65f2-452b-977b-aad14295d57b" "The Isabella Ste
 Edith Wharton: _The House of Mirth_ (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Film: Davies, Terence. {{% resource_link "446c4038-99cc-4e76-a137-618fb9f140f6" "_The House of Mirth_" %}}. 2000.
+Film: Davies, Terence. [_The House of Mirth_](http://www.imdb.com/title/tt0200720/). 2000.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -201,7 +201,7 @@ Charlotte Brontë: _Jane Eyre_ (cont.)
 Alice Walker: _The Color Purple_
 {{< tdclose >}}
 {{< tdopen >}}
-Film: Spielberg, Steven. {{% resource_link "3d0a4a7e-ec58-4186-b4f9-a3b64b168ae7" "_The Color Purple_" %}}. 1985.
+Film: Spielberg, Steven. [_The Color Purple_](http://www.imdb.com/title/tt0088939/). 1985.
 {{< tdclose >}}
 
 {{< trclose >}}
